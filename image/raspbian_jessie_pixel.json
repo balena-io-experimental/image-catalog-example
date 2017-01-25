@@ -1,0 +1,31 @@
+{
+  "name": "raspbian_jessie_pixel",
+  "version": "2017-01-11",
+  "aliases": [],
+  "type": "image",
+  "data": {
+    "display_name": "Raspbian Jessie with PIXEL",
+    "description": "Image with PIXEL desktop based on Debian Jessie",
+    "checksum": {
+      "type": "sha1",
+      "value": "0ed4dff4248c4c8b437a5d5feed4013197660c8a"
+    },
+    "publisher": "raspberry_pi_foundation",
+    "device_type": [
+      "raspberry_pi_1_a",
+      "raspberry_pi_1_a_plus",
+      "raspberry_pi_1_b",
+      "raspberry_pi_1_b_plus",
+      "raspberry_pi_2_b",
+      "raspberry_pi_2_b_plus",
+      "raspberry_pi_3_b",
+      "raspberry_pi_zero"
+    ]
+  },
+  "assets": {
+    "url": "https://www.raspberrypi.org/downloads/raspbian/",
+    "image_url": "https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-01-10/2017-01-11-raspbian-jessie.zip",
+    "release_notes_url": "http://downloads.raspberrypi.org/raspbian/release_notes.txt",
+    "logo": "logos/raspbian.png"
+  }
+}

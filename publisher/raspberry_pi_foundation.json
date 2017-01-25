@@ -1,0 +1,12 @@
+{
+  "name": "raspberry_pi_foundation",
+  "version": 1,
+  "aliases": [],
+  "type": "publisher",
+  "data": {
+    "url": "https://www.raspberrypi.org"
+  },
+  "assets": {
+    "logo": "logos/raspberry_pi_foundation.png"
+  }
+}
