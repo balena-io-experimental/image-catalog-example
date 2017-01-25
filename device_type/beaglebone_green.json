@@ -1,0 +1,13 @@
+{
+  "name": "beaglebone_green",
+  "version": 1,
+  "type": "device_type",
+  "data": {
+    "device_family": "beaglebone",
+    "processor": "arm_cortex_a8",
+    "compatible": []
+  },
+  "assets": {
+    "logo": "logos/beaglebone_green.png"
+  }
+}
