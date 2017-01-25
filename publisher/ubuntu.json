@@ -1,0 +1,12 @@
+{
+  "name": "ubuntu",
+  "version": 1,
+  "aliases": [],
+  "type": "publisher",
+  "data": {
+    "url": "https://www.ubuntu.com"
+  },
+  "assets": {
+    "logo": "logos/ubuntu.png"
+  }
+}

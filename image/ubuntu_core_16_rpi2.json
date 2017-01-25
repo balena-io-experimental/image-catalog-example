@@ -1,0 +1,25 @@
+{
+  "name": "ubuntu_core_16_rpi2",
+  "version": 16,
+  "aliases": [],
+  "type": "image",
+  "data": {
+    "display_name": "Ubuntu Core 16",
+    "description": "Ubuntu Core is a tiny, transactional version of Ubuntu for IoT devices and large container deployments.",
+    "checksum": {
+      "type": "sha1",
+      "value": "bedb8b5f0618cfc06bb30a54342253d8313eb120"
+    },
+    "publisher": "ubuntu",
+    "device_type": [
+      "raspberry_pi_2_b",
+      "raspberry_pi_2_b_plus"
+    ]
+  },
+  "assets": {
+    "url": "https://www.ubuntu.com/core",
+    "image_url": "http://releases.ubuntu.com/ubuntu-core/16/ubuntu-core-16-pi2.img.xz",
+    "release_notes_url": "https://wiki.ubuntu.com/XenialXerus/ReleaseNotes",
+    "logo": "logos/ubuntu-core.png"
+  }
+}
