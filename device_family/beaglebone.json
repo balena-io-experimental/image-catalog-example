@@ -1,0 +1,11 @@
+{
+  "name": "beaglebone",
+  "version": 1,
+  "type": "device_family",
+  "data": {
+    "manufacturer": "beagleboard"
+  },
+  "assets": {
+    "logo": "logos/beaglebone.png"
+  }
+}

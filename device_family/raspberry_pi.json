@@ -1,0 +1,14 @@
+{
+  "name": "raspberry_pi",
+  "version": 1,
+  "aliases": [ 
+    "raspberrypi"
+  ],
+  "type": "device_family",
+  "data": {
+    "manufacturer": "raspberry_pi_foundation"
+  },
+  "assets": {
+    "logo": "logos/raspberry_pi.png"
+  }
+}

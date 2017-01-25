@@ -1,0 +1,15 @@
+{
+  "name": "raspberry_pi_2_b",
+  "version": 1,
+  "type": "device_type",
+  "data": {
+    "device_family": "raspberry_pi",
+    "processor": "arm_cortex_a7",
+    "compatible": [
+      "raspberry_pi_2_b_plus"
+    ]
+  },
+  "assets": {
+    "logo": "logos/raspberry_pi_2.png"
+  }
+}
