@@ -4,6 +4,7 @@
   "aliases": [],
   "type": "image",
   "data": {
+    "url": "https://www.raspberrypi.org/downloads/raspbian/",
     "display_name": "Raspbian Jessie with PIXEL",
     "description": "Image with PIXEL desktop based on Debian Jessie",
     "checksum": {
@@ -23,7 +24,6 @@
     ]
   },
   "assets": {
-    "url": "https://www.raspberrypi.org/downloads/raspbian/",
     "image_url": "https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-01-10/2017-01-11-raspbian-jessie.zip",
     "release_notes_url": "http://downloads.raspberrypi.org/raspbian/release_notes.txt",
     "logo": "logos/raspbian.png"
