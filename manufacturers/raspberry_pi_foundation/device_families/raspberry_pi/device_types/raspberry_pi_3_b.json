@@ -1,13 +1,13 @@
 {
-  "name": "raspberry_pi_1",
-  "version": "B+",
+  "name": "raspberry_pi_3_b",
+  "version": 1,
   "type": "device_type",
   "data": {
     "device_family": "raspberry_pi",
-    "processor": "arm1176jzf_s",
+    "processor": "arm_cortex_a53",
     "compatible": []
   },
   "assets": {
-    "logo": "logos/raspberry_pi_1.png"
+    "logo": "logos/raspberry_pi_3.png"
   }
 }
