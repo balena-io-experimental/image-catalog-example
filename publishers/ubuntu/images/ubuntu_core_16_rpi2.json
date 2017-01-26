@@ -18,8 +18,8 @@
     ]
   },
   "assets": {
-    "image_url": "http://releases.ubuntu.com/ubuntu-core/16/ubuntu-core-16-pi2.img.xz",
-    "release_notes_url": "https://wiki.ubuntu.com/XenialXerus/ReleaseNotes",
+    "image": "http://releases.ubuntu.com/ubuntu-core/16/ubuntu-core-16-pi2.img.xz",
+    "release_notes": "https://wiki.ubuntu.com/XenialXerus/ReleaseNotes",
     "logo": "logos/ubuntu-core.png"
   }
 }

@@ -24,8 +24,8 @@
     ]
   },
   "assets": {
-    "image_url": "https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-01-10/2017-01-11-raspbian-jessie.zip",
-    "release_notes_url": "http://downloads.raspberrypi.org/raspbian/release_notes.txt",
+    "image": "https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-01-10/2017-01-11-raspbian-jessie.zip",
+    "release_notes": "http://downloads.raspberrypi.org/raspbian/release_notes.txt",
     "logo": "logos/raspbian.png"
   }
 }
