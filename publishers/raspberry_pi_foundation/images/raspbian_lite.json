@@ -12,13 +12,9 @@
     },
     "publisher": "raspberry_pi_foundation",
     "device_type": [
-      "raspberry_pi_1_a",
-      "raspberry_pi_1_a_plus",
-      "raspberry_pi_1_b",
-      "raspberry_pi_1_b_plus",
-      "raspberry_pi_2_b",
-      "raspberry_pi_2_b_plus",
-      "raspberry_pi_3_b",
+      "raspberry_pi_1",
+      "raspberry_pi_2",
+      "raspberry_pi_3",
       "raspberry_pi_zero"
     ]
   },

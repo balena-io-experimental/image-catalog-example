@@ -12,7 +12,7 @@
     },
     "publisher": "ubuntu",
     "device_type": [
-      "raspberry_pi_3_b"
+      "raspberry_pi_3"
     ]
   },
   "assets": {
