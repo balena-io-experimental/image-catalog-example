@@ -4,7 +4,8 @@
   "type": "device_type",
   "data": {
     "device_family": "raspberry_pi",
-    "processor": "arm1176jzf_s"
+    "processor": "arm1176jzf_s",
+    "compatible": []
   },
   "assets": {
     "logo": "logos/raspberry_pi_1.png"

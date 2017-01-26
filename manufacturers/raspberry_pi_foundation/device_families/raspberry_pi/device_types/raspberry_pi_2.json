@@ -4,7 +4,8 @@
   "type": "device_type",
   "data": {
     "device_family": "raspberry_pi",
-    "processor": "arm_cortex_a7"
+    "processor": "arm_cortex_a7",
+    "compatible": []
   },
   "assets": {
     "logo": "logos/raspberry_pi_2.png"
