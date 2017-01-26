@@ -1,0 +1,12 @@
+{
+  "name": "raspberry_pi_1",
+  "version": "B+",
+  "type": "device_type",
+  "data": {
+    "device_family": "raspberry_pi",
+    "processor": "arm1176jzf_s"
+  },
+  "assets": {
+    "logo": "logos/raspberry_pi_1.png"
+  }
+}
