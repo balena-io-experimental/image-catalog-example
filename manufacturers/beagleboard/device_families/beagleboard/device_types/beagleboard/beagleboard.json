@@ -8,6 +8,7 @@
     "compatible": []
   },
   "assets": {
-    "logo": "metadata/logo.png"
+    "logo": "metadata/logo.png",
+    "board": "metadata/board.jpg"
   }
 }
