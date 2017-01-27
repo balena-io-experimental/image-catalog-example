@@ -19,6 +19,6 @@
   "assets": {
     "image": "http://releases.ubuntu.com/ubuntu-core/16/ubuntu-core-16-pi3.img.xz",
     "release_notes": "https://wiki.ubuntu.com/XenialXerus/ReleaseNotes",
-    "logo": "logos/ubuntu-core.png"
+    "logo": "metadata/logo.png"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "name": "raspbian_jessie_lite",
+  "name": "raspbian_jessie_pixel",
   "version": "2017-01-11",
   "aliases": [],
   "type": "image",
   "data": {
     "url": "https://www.raspberrypi.org/downloads/raspbian/",
-    "display_name": "Raspbian Jessie Lite",
-    "description": "Minimal image based on Debian Jessie",
+    "display_name": "Raspbian Jessie with PIXEL",
+    "description": "Image with PIXEL desktop based on Debian Jessie",
     "checksum": {
       "type": "sha1",
-      "value": "f987935e3e99366a6f1bf0d60a7a83fe3edb013c"
+      "value": "0ed4dff4248c4c8b437a5d5feed4013197660c8a"
     },
     "publisher": "raspberry_pi_foundation",
     "device_type": [
@@ -24,8 +24,8 @@
     ]
   },
   "assets": {
-    "image": "https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2017-01-10/2017-01-11-raspbian-jessie-lite.zip",
+    "image": "https://downloads.raspberrypi.org/raspbian/images/raspbian-2017-01-10/2017-01-11-raspbian-jessie.zip",
     "release_notes": "http://downloads.raspberrypi.org/raspbian/release_notes.txt",
-    "logo": "logos/raspbian.png"
+    "logo": "metadata/logo.png"
   }
 }
