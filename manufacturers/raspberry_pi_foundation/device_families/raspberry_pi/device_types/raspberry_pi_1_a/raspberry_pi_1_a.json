@@ -1,11 +1,15 @@
 {
-  "name": "raspberry_pi_zero",
+  "name": "raspberry_pi_1_a",
   "version": 1,
   "type": "device_type",
   "data": {
     "device_family": "raspberry_pi",
     "processor": "arm1176jzf_s",
-    "compatible": []
+    "compatible": [
+      "raspberry_pi_1_a_plus",
+      "raspberry_pi_1_b",
+      "raspberry_pi_1_b_plus"
+    ]
   },
   "assets": {
     "logo": "metadata/logo.png",

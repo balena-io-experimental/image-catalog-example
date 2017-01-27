@@ -1,10 +1,10 @@
 {
-  "name": "raspberry_pi_zero",
+  "name": "beagleboard_x15",
   "version": 1,
   "type": "device_type",
   "data": {
-    "device_family": "raspberry_pi",
-    "processor": "arm1176jzf_s",
+    "device_family": "beagleboard",
+    "processor": "arm_cortex_a15",
     "compatible": []
   },
   "assets": {

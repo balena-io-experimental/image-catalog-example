@@ -1,0 +1,13 @@
+{
+  "name": "beagleboard",
+  "version": 1,
+  "type": "device_type",
+  "data": {
+    "device_family": "beagleboard",
+    "processor": "arm_cortex_a8",
+    "compatible": []
+  },
+  "assets": {
+    "logo": "metadata/logo.png"
+  }
+}
